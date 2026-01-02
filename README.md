@@ -1,42 +1,31 @@
-# Python Fundamentals Practice
+# Python OOP and Advanced Concepts Practice
 
-Core data structures in Python and their operations
+Today my focus was to understand Object-Oriented Programming (OOP) concepts and commonly used advanced Python features through simple and clear examples.
 
 ## Topics Covered
 
-### 1. Lists
-- Access list items
-- Change and update items
-- Add and remove items
-- Looping through lists
-- List comprehension
-- Sorting, copying, and joining lists
-- List methods
+### Object-Oriented Programming (OOP)
+- Classes and Objects
+- Constructors
+- Instance Variables and Methods
+- Class Methods
+- Static Methods
+- Access Modifiers
+- Inheritance
+- Method Overriding
+- Polymorphism
+- Dynamic Typing
 
-### 2. Tuples
-- Access and unpack tuple items
-- Convert tuples to lists to modify
-- Nested tuples
-- Namedtuples
-- Tuple methods
+### Core OOP Principles
+- Encapsulation
+- Abstraction
 
-### 3. Sets
-- Access set items
-- Add and remove items
-- Loop through sets
-- Join and copy sets
-- Set operators and methods
-
-### 4. Dictionaries
-- Access, add, update, and remove items
-- Dictionary view objects (keys, values, items)
-- Looping dictionaries
-- Copying and nested dictionaries
-- Dictionary methods
-
-### 5. Arrays
-- Create and access arrays
-- Add, remove, and loop through array items
-- Copy, reverse, and sort arrays
-- Join arrays
-- Array methods
+### Advanced Python Concepts
+- Interfaces using Abstract Base Classes
+- Packages and Imports
+- Inner Classes
+- Anonymous Objects
+- Singleton Class
+- Enums
+- Reflection
+- Data Classes
